@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a Test Engineering Manager focused on scaling automation, CI/CD quality gates, and AI-assisted testing.
+
+Badges: Java, Selenium, RestAssured, TestNG, Cucumber, Appium, JUnit, Python, PyTest, JMeter, GitHub Actions, Docker.
 
 <!--
 **Hetu-Kaur/Hetu-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
